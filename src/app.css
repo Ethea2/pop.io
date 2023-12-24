@@ -9,3 +9,13 @@
     }
 
 }
+
+.icon {
+    width: 15px;
+    height: 15px;
+}
+
+.image {
+    background: url('./assets/images/signin_image.png');
+    background-size: cover;
+}
